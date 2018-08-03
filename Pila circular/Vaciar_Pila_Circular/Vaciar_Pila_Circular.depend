@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1499439234 source:c:\users\aylen\desktop\unlam\programación\programacion aylen\practica 2do parcial\pila circular\vaciar_pila_circular\main.c
+	<stdio.h>
+	<stdlib.h>
+

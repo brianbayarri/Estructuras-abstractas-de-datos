@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496171477 source:c:\brian\unlam\programacion\programas\brian\varios\eliminar unicos\main.c
+	<stdio.h>
+	<stdlib.h>
+

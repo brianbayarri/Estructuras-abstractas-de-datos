@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496015318 source:c:\brian\unlam\programacion\programas\brian\varios\archivo binario a lista\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496017557 source:c:\brian\unlam\programacion\programas\brian\varios\ordenar lista\main.c
+	<stdio.h>
+	<stdlib.h>
+

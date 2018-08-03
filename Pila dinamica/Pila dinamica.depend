@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496243968 source:c:\brian\unlam\programacion\programas\brian\varios\pila dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1499298323 source:c:\users\aylen\desktop\unlam\programación\programacion aylen\practica 2do parcial\lista doblemente enlazada\crear_lista_doblemente_enlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+
